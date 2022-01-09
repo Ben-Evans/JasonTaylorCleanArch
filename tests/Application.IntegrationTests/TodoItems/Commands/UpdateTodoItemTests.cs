@@ -5,7 +5,6 @@ using JasonTaylorCleanArch.Application.TodoItems.Commands.UpdateTodoItem;
 using JasonTaylorCleanArch.Application.TodoLists.Commands.CreateTodoList;
 using JasonTaylorCleanArch.Domain.Entities;
 using NUnit.Framework;
-using static Testing;
 
 namespace JasonTaylorCleanArch.Application.IntegrationTests.TodoItems.Commands
 {

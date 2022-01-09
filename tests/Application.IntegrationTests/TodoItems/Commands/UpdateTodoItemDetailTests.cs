@@ -7,7 +7,6 @@ using JasonTaylorCleanArch.Application.TodoLists.Commands.CreateTodoList;
 using JasonTaylorCleanArch.Domain.Entities;
 using JasonTaylorCleanArch.Domain.Enums;
 using NUnit.Framework;
-using static Testing;
 
 namespace JasonTaylorCleanArch.Application.IntegrationTests.TodoItems.Commands
 {

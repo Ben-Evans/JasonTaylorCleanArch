@@ -3,7 +3,6 @@ using JasonTaylorCleanArch.Application.TodoLists.Queries.GetTodos;
 using JasonTaylorCleanArch.Domain.Entities;
 using JasonTaylorCleanArch.Domain.ValueObjects;
 using NUnit.Framework;
-using static Testing;
 
 namespace JasonTaylorCleanArch.Application.IntegrationTests.TodoLists.Queries
 {

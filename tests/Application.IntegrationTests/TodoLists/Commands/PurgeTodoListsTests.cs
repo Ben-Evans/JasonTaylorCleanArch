@@ -5,7 +5,6 @@ using JasonTaylorCleanArch.Application.TodoLists.Commands.CreateTodoList;
 using JasonTaylorCleanArch.Application.TodoLists.Commands.PurgeTodoLists;
 using JasonTaylorCleanArch.Domain.Entities;
 using NUnit.Framework;
-using static Testing;
 
 namespace JasonTaylorCleanArch.Application.IntegrationTests.TodoLists.Commands
 {

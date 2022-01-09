@@ -1,5 +1,4 @@
 ﻿using NUnit.Framework;
-using static Testing;
 
 namespace JasonTaylorCleanArch.Application.IntegrationTests
 {
